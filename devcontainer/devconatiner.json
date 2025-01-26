@@ -1,0 +1,6 @@
+{
+    "name": "Mohist Minecraft Server con Ngrok",
+    "dockerFile": "Dockerfile",
+    "appPort": [25565],
+    "postCreateCommand": "echo 'Servidor de Mohist con Ngrok listo!'"
+  }
